@@ -1,14 +1,11 @@
-body {
-     background-color: aquamarine;       
+button:hover {
+    background-color: blue;
 }
-.first-name {
-    font-size: 40px;
-    text-align: center;
-    text-align: center;
-    text-align: center;
-    text-align: center;
-    text-align: center;
-    text-align: center;
-    text-align: center;
-  
+
+#sec {
+    background-color: sandybrown;
+}
+
+p ~ h2{ 
+    background-color: aquamarine;
 }
